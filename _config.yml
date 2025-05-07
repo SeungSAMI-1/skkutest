@@ -1,5 +1,5 @@
-title: My Hacker Blog
-description: A minimal theme using GitHub's Hacker look
+title: 승환이의 페이지
+description: Github Page로 만드는 나의 페이지
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
